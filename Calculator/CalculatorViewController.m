@@ -60,7 +60,7 @@
     self.userIsInTheMiddleOfEnteringNumnber = NO;
 }
 
-//Just trigger test function
+//Just trigger test function!!
 - (IBAction)testButtonPressed:(UIButton *)sender {
     CGRect labelRect = CGRectMake(20,20,120,40);
     UILabel * label = [[UILabel alloc] initWithFrame:labelRect];
