@@ -32,7 +32,7 @@
 
 + (NSString *) descriptionOfProgram:(id)program
 {
-    NSString * result = @"This program is : (";
+    NSString * result = @"The description is : (";
     
     for( id topItem in program)
     {
